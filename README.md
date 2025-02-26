@@ -9,4 +9,4 @@ Grupos Seleccionados
 
 
 Imagen añadida desde la casa
-![Linux](/imagenes/Pinguin/imagen.jpg)
+![Linux](Imagenes/Cat.png)
