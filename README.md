@@ -9,4 +9,4 @@ Grupos Seleccionados
 
 
 Imagen añadida desde la casa
-![Linux](Imagenes/Cat.png)
+![Linux](Imagenes/cat.jpg)
